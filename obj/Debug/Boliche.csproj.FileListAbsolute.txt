@@ -1,0 +1,9 @@
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\bin\Debug\Boliche.exe.config
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\bin\Debug\Boliche.exe
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\bin\Debug\Boliche.pdb
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\obj\Debug\Boliche.csprojResolveAssemblyReference.cache
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\obj\Debug\Boliche.Form1.resources
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\obj\Debug\Boliche.Properties.Resources.resources
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\obj\Debug\Boliche.csproj.GenerateResource.Cache
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\obj\Debug\Boliche.exe
+C:\Users\Everton\documents\visual studio 2013\Projects\Boliche\Boliche\obj\Debug\Boliche.pdb
